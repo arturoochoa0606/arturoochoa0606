@@ -25,10 +25,6 @@
 █  MODE:      ULTRA_HACKER                █
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
-<< holographic distortion detected >>
-<< recalibrating neural signature....OK >>
-
----
 
 
 > MATRIX LINK STABLE
