@@ -1,27 +1,11 @@
-┌─────────────────────── OPS CORE ────────────────────────┐
-│ ZeroKeyAI........................ ACTIVE                │
-│ Matrix Radar System............... ONLINE               │
-│ Android Dev Tools................. DEPLOYED             │
-│ ICE Countermeasures............... READY                │
-│ Encryption Layer.................. ENFORCED             │
-└──────────────────────────────────────────────────────────🔥 GitHub
-
----
-
-🟩 REALTIME MATRIX RAIN — CORE FEED
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRzdWZkenNocnZrbjR5bzRubTM3dzdlcDdhc2NybHVmbW10eHkwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GYB4iM3hGZSx2/giphy.gif" width="80%" />
-</p>
----
 
 🟢 GLITCH IDENTIFICATION MODULE
 
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█  IDENTITY:  ARTURO YAIR OCHOA PINEDA █
-█  STATUS:    VERIFIED / ENCRYPTED      █
-█  MODE:      ULTRA_HACKER              █
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+█  IDENTITY:  ARTURO YAIR OCHOA PINEDA      █
+█  STATUS:    VERIFIED / ENCRYPTED          █
+█  MODE:      ULTRA_HACKER                  █
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
 << holographic distortion detected >>
 << recalibrating neural signature....OK >>
@@ -39,33 +23,13 @@
 
 🟢 SYSTEM MAP — LIVE OPERATIONS
 
-┌─────────────────────── OPS CORE ────────────────────────┐
-│ ZeroKeyAI........................ ACTIVE                │
-│ Matrix Radar System............... ONLINE               │
-│ Android Dev Tools................. DEPLOYED             │
-│ ICE Countermeasures............... READY                │
-│ Encryption Layer.................. ENFORCED             │
-└──────────────────────────────────────────────────────────┘
-
-
----
-
-🟩 NEON HUD — REALTIME RADAR
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="260" />
-</p>
----
-
-🟢 TERMINAL: SYSTEM SCAN IN PROGRESS
-
-> scan --root --deep --override
-> tracing packets ███████████████ 100%
-> decoding signals...
-> link established.
-
-
----
+┌─────────────────────── OPS CORE ─────────────
+│ ZeroKeyAI........................ ACTIVE            │
+│ Matrix Radar System............... ONLINE           │
+│ Android Dev Tools................. DEPLOYED         │
+│ ICE Countermeasures............... READY            │
+│ Encryption Layer.................. ENFORCED         │
+└────────────────────────────────────────────
 
 ⚠️ BLACK ICE ALERT SYSTEM
 
