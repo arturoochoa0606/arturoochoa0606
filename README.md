@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <code style="color:lime;">C:\Users\TuNombre> run matrix.exe</code>
+  <code style="color:lime;">C:\arturoochoa/0606> run matrix.exe</code>
 </p>
